@@ -671,9 +671,11 @@ color: #F4F4FD;
 
 .modal-button-close:hover {
     background-color: #404bbf;
+    border: none;
 }
 
 .modal-button-close:focus {
+    background-color: #404bbf;
     border: none;
 }
 
