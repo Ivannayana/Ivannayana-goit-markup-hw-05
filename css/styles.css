@@ -555,11 +555,6 @@ color: #F4F4FD;
 }
 
 
-.container {}
-
-.container-footer-form-group {
-    margin-left: auto;
-}
 
 .footer-div-form-group-p {
     font-weight: 500;
@@ -569,6 +564,7 @@ color: #F4F4FD;
     color: #ffffff;
     margin: 0;
     margin-bottom: 16px;
+
 }
 
 .order-form {
